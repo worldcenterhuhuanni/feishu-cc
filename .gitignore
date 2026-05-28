@@ -14,3 +14,6 @@ build/
 temp/
 logs/
 *.pid
+
+# Cursor / Claude Code 本地配置与技能，不纳入版本库
+.claude/
